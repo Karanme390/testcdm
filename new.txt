@@ -1,2 +1,6 @@
 Humka chahi Badla
+<<<<<<< HEAD
 hello from Main team
+=======
+Hello from Developer team
+>>>>>>> dev
